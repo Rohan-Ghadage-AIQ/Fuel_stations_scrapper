@@ -90,9 +90,6 @@ Each output file follows this structure:
     }
   ]
 }
-```
-
-> **Note:** GeoJSON files are excluded from Git due to size (up to ~28 MB each). Use [Git LFS](https://git-lfs.com/) to version them: `git lfs track "*.geojson"`.
 
 ---
 
