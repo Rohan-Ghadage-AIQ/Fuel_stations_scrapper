@@ -1,0 +1,6873 @@
+{
+  "type": "FeatureCollection",
+  "generator": "shell_scraper.py",
+  "scraped_at": "2026-03-20T08:12:32.465015Z",
+  "total_stations": 312,
+  "brand": "Shell",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BALMATTA RD MANGALORE",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "BALMATTA ROAD, MANGALORE, Karnataka",
+        "state": "Karnataka",
+        "city": "MANGALORE",
+        "postcode": "575005",
+        "phone": "+91 63640 40742",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.846583,
+          12.870389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "LADY HILL ROAD MANGALORE",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "KULOOR FERRY ROAD, MANGALORE, Karnataka",
+        "state": "Karnataka",
+        "city": "MANGALORE",
+        "postcode": "575006",
+        "phone": "+91 96866 82697",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.835833,
+          12.897083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BEJAI,MANGALORE",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "KODIALBAIL VILLAGE, BEJAI MAIN ROAD, MANGALORE, Karnataka",
+        "state": "Karnataka",
+        "city": "MANGALORE",
+        "postcode": "575004",
+        "phone": "+91 96866 82697",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.849828,
+          12.886682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ADVAITH HYUDAI MANGALORE",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "KHATA NO. 88, DEREBAIL, MANGALORE,, MANGALORE, Karnataka",
+        "state": "Karnataka",
+        "city": "MANGALORE",
+        "postcode": "575006",
+        "phone": "+91 96868 62674",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.84193,
+          12.90144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PUTTUR",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "DAKSHIN KANNADA, DAKSINA KANNADA, Karnataka",
+        "state": "Karnataka",
+        "city": "DAKSINA KANNADA",
+        "postcode": "574201",
+        "phone": "+91 99022 93442",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.19071,
+          12.76974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "KUNIAMUTHUR,PALGHAT ROAD",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "PALGHAT ROAD, COIMBATORE, Tamil Nadu",
+        "state": "Tamil Nadu",
+        "city": "COIMBATORE",
+        "postcode": "641008",
+        "phone": "+91 99166 75226",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.955622,
+          10.965611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "G AGRAHARA",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "MUDIGERE TALUK, MUDIGERE, Karnataka",
+        "state": "Karnataka",
+        "city": "MUDIGERE",
+        "postcode": "577132",
+        "phone": "+91 73537 04367",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.693494,
+          13.083115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CHINNIYAMPALAYAM",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "KALAPATI VILLAGE, COIMBATORE, Tamil Nadu",
+        "state": "Tamil Nadu",
+        "city": "COIMBATORE",
+        "postcode": "641014",
+        "phone": "+91 99166 75226",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.055,
+          11.04825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GUNDLUPETE",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "CHAMRAJNAGAR DISTRICT, GUNDLUPETE, Karnataka",
+        "state": "Karnataka",
+        "city": "GUNDLUPETE",
+        "postcode": "571111",
+        "phone": "+91 98868 96888",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.680443,
+          11.82604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CHIKMAGALUR ENTRY",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "KASABA HOBLI, CHIKMAGALUR TALUK,, CHIKMAGALUR, Karnataka",
+        "state": "Karnataka",
+        "city": "CHIKMAGALUR",
+        "postcode": "577101",
+        "phone": "+91 96200 66005",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.78628,
+          13.30865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ADVAITH HYUDAI MYSOR",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "BELAVADI VILLAGE, ELAWALA HOBLI, MYSORE, Karnataka",
+        "state": "Karnataka",
+        "city": "MYSORE",
+        "postcode": "570016",
+        "phone": "+91 96868 62674",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.57167,
+          12.34907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "HUNSUR ROAD",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "VILL HINKAL, KASABA HOBLI, MYSORE, Karnataka",
+        "state": "Karnataka",
+        "city": "MYSORE",
+        "postcode": "570017",
+        "phone": "+91 78993 88888",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.60819,
+          12.32785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MANDAKALLI MYSORE CALICUT HIGHWAY",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "MYSORE TALUK & DISTRICT, MYSORE, Karnataka",
+        "state": "Karnataka",
+        "city": "MYSORE",
+        "postcode": "570008",
+        "phone": "+91 99646 77977",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.659761,
+          12.245211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MANANTWADI.",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "MANANDAVADI ROAD, MYSORE, Karnataka",
+        "state": "Karnataka",
+        "city": "MYSORE",
+        "postcode": "570001",
+        "phone": "+91 99646 77877",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.64192,
+          12.28378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "STN NILGIRI ROAD MYSORE",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "LASHKAR MOHALLA, MYSORE, Karnataka",
+        "state": "Karnataka",
+        "city": "MYSORE",
+        "postcode": "570001",
+        "phone": "+91 96638 34597",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.661804,
+          12.320054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BANAVARA",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "BANAVARA HOBLI, ARSIKERE TALUK,, HASSAN, Karnataka",
+        "state": "Karnataka",
+        "city": "HASSAN",
+        "postcode": "573112",
+        "phone": "+91 77958 07121",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.157395,
+          13.409577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "VILANGUDI",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "MADURAI NORTH TALUK, MADURAI, Tamil Nadu",
+        "state": "Tamil Nadu",
+        "city": "MADURAI",
+        "postcode": "625018",
+        "phone": "+91 91766 31989",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.079361,
+          9.958028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ILANDHAIKULAM",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "MADURAI EAST TALUK, MADURAI, Tamil Nadu",
+        "state": "Tamil Nadu",
+        "city": "MADURAI",
+        "postcode": "625020",
+        "phone": "+91 91766 31989",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.181861,
+          9.944222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BELLUR CROSS",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "NAGAMANGALA TALUK, MANDYA, Karnataka",
+        "state": "Karnataka",
+        "city": "MANDYA",
+        "postcode": "571418",
+        "phone": "+91 99029 79557",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.823993,
+          12.973557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CHOTTANAHALLI",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "DISTRICT-TUMKUR, CHOTTONAHALLI, Karnataka",
+        "state": "Karnataka",
+        "city": "CHOTTONAHALLI",
+        "postcode": "572130",
+        "phone": "+91 98801 63801",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.905394,
+          13.057641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "DAVANAGERE-OLD PB RD",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "DAVANGERE, DAVANGERE, Karnataka",
+        "state": "Karnataka",
+        "city": "DAVANGERE",
+        "postcode": "577004",
+        "phone": "+91 99014 90156",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.893283,
+          14.472296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "RAMANAGARA",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "B.M. ROAD,, RAMANAGARA, Karnataka",
+        "state": "Karnataka",
+        "city": "RAMANAGARA",
+        "postcode": "562159",
+        "phone": "+91 85508 75197",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.27639,
+          12.729064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PALE NH4 HUBLI",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "CHABBI, TALUKA HUBLI, DHARWAD, Karnataka",
+        "state": "Karnataka",
+        "city": "DHARWAD",
+        "postcode": "580020",
+        "phone": "+91 63641 28199",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.14325,
+          15.24041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "KARVAR ROAD HUBLI",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "OPP TO ELECTRIC GRID,DHARWAD, HUBLI-DHARWAD, Karnataka",
+        "state": "Karnataka",
+        "city": "HUBLI-DHARWAD",
+        "postcode": "580024",
+        "phone": "+91 74834 48821",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.119944,
+          15.3315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GOKUL ROAD HUBLI",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "GOKUL ROAD HUBLI, HUBLI, Karnataka",
+        "state": "Karnataka",
+        "city": "HUBLI",
+        "postcode": "580030",
+        "phone": "+91 90351 99504",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.116446,
+          15.350916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "HEGGERI DHARWAD",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "NEAR BELUR KIADB INDUSTRIAL AREA, DHARWAD, Karnataka",
+        "state": "Karnataka",
+        "city": "DHARWAD",
+        "postcode": "580011",
+        "phone": "+91 78290 88822",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.906194,
+          15.527972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "HOSAYALLAPUR",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "HOSAYALLAPUR, DHARWAD, Karnataka",
+        "state": "Karnataka",
+        "city": "DHARWAD",
+        "postcode": "580001",
+        "phone": "+91 99640 50000",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.01205,
+          15.44816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PB ROAD HUBLI",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "BAIRIDEVARAKOPPA, HUBLI, Karnataka",
+        "state": "Karnataka",
+        "city": "HUBLI",
+        "postcode": "580025",
+        "phone": "+91 90351 99504",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.10861,
+          15.38325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BAGALKOT ROAD HUBLI",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "KESHAVAPUR HUBLI,DHARWAD, HUBLI, Karnataka",
+        "state": "Karnataka",
+        "city": "HUBLI",
+        "postcode": "580023",
+        "phone": "+91 97310 13883",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.153167,
+          15.362806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "AMBEDKAR ROAD BELGAUM",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "BELGAUM, BELGAUM, Karnataka",
+        "state": "Karnataka",
+        "city": "BELGAUM",
+        "postcode": "590001",
+        "phone": "+91 99640 50000",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.515611,
+          15.878191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BH ROAD, TUMKUR",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "AMANI KHARE, BH ROAD, TUMKUR, Karnataka",
+        "state": "Karnataka",
+        "city": "TUMKUR",
+        "postcode": "572107",
+        "phone": "+91 96866 82698",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.08471,
+          13.345242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TUMKUR (SIRA GATE)",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "DISTRICT-TUMKUR, TUMKUR, Karnataka",
+        "state": "Karnataka",
+        "city": "TUMKUR",
+        "postcode": "572106",
+        "phone": "+91 98862 26617",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.103265,
+          13.350686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MADAKARIPURA",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "CHITRADURGA TALUK, MADAKARIPURA, Karnataka",
+        "state": "Karnataka",
+        "city": "MADAKARIPURA",
+        "postcode": "577502",
+        "phone": "+91 81233 98186",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.422927,
+          14.220341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PANJIGANAHALLI",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "SIRA TALUK, TUMKUR, SIRA, Karnataka",
+        "state": "Karnataka",
+        "city": "SIRA",
+        "postcode": "572139",
+        "phone": "+91 99803 44500",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.83848,
+          13.775083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MYSORE BANGALORE ROAD",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "KENGERI HOBLI, BANGALORE, Karnataka",
+        "state": "Karnataka",
+        "city": "BANGALORE",
+        "postcode": "560060",
+        "phone": "+91 89516 15897",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.473185,
+          12.906804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "DEVANOOR",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "MUSIRI TALUK,, TRICHY, Tamil Nadu",
+        "state": "Tamil Nadu",
+        "city": "TRICHY",
+        "postcode": "621214",
+        "phone": "+91 70191 24311",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.458934,
+          11.112008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PUDUKOTTAI",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "NATHAMPANNAI VILLAGE, PUDUKOTTAI, Tamil Nadu",
+        "state": "Tamil Nadu",
+        "city": "PUDUKOTTAI",
+        "postcode": "622005",
+        "phone": "+91 77084 54134",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.784363,
+          10.387182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "KENGERI.",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "15/3 & 15/4 KENGERI, BANGALORE, Karnataka",
+        "state": "Karnataka",
+        "city": "BANGALORE",
+        "postcode": "560060",
+        "phone": "+91 96633 97129",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.481717,
+          12.91564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "KANAKPURA RD.",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "UTTARAHALLI HOBLI, BANGALORE, Karnataka",
+        "state": "Karnataka",
+        "city": "BANGALORE",
+        "postcode": "560062",
+        "phone": "+91 76187 76513",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.53118,
+          12.862863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "UTTARAHALLI.",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "KENGERI HOBLI, BNG SOUTH, BANGALORE, Karnataka",
+        "state": "Karnataka",
+        "city": "BANGALORE",
+        "postcode": "560061",
+        "phone": "+91 72598 03628",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.508434,
+          12.903916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "RAJARAJESHWARI  NAGAR",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "RAJARAJESHWARI NAGAR, BANGALORE, Karnataka",
+        "state": "Karnataka",
+        "city": "BANGALORE",
+        "postcode": "560081",
+        "phone": "+91 91416 55655",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.514611,
+          12.92675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "JIGANI BANNERGHATTA",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "S NO. 68 JIGANI INDUS. AREA, JIGANI, BANGALORE, Karnataka",
+        "state": "Karnataka",
+        "city": "BANGALORE",
+        "postcode": "562123",
+        "phone": "+91 84969 68479",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.629509,
+          12.786714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MAGADI ROAD",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "BYADARAHALLI, MAGADI MAIN ROAD, BANGALORE, Karnataka",
+        "state": "Karnataka",
+        "city": "BANGALORE",
+        "postcode": "560091",
+        "phone": "+91 91419 14161",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.48005,
+          12.98565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BANNERGHATA",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "GOTTIGERE VILLAGE, BANERGHATTA ROAD, BANGALORE, Karnataka",
+        "state": "Karnataka",
+        "city": "BANGALORE",
+        "postcode": "560083",
+        "phone": "+91 84969 68479",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.58983,
+          12.859742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "NEELAMANGLA TOWN",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "ARISHINAKUNTE PANCHAYAT, NELAMANGLA, BANGALORE, Karnataka",
+        "state": "Karnataka",
+        "city": "BANGALORE",
+        "postcode": "562123",
+        "phone": "+91 99009 62339",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.407534,
+          13.092194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ANEKAL ROAD",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "KASABA HOBLI, ANEKAL TALUK, BANGALORE, Karnataka",
+        "state": "Karnataka",
+        "city": "BANGALORE",
+        "postcode": "562106",
+        "phone": "+91 99005 05152",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.701722,
+          12.763472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "KANAKAPURA 80 FT ROAD",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "KANAKAPURA MAIN ROAD, BANGALORE, Karnataka",
+        "state": "Karnataka",
+        "city": "BANGALORE",
+        "postcode": "560078",
+        "phone": "+91 88678 45897",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.570637,
+          12.897371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PUTTENAHALLI,BANGALORE",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "BANGALORE SOUTH TALUK, BANGALORE, Karnataka",
+        "state": "Karnataka",
+        "city": "BANGALORE",
+        "postcode": "560078",
+        "phone": "+91 91480 26095",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.577073,
+          12.891701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MYSORE RD2",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "ADJACENT BHEL, MYSORE RD, BANGALORE, Karnataka",
+        "state": "Karnataka",
+        "city": "BANGALORE",
+        "postcode": "560039",
+        "phone": "+91 76187 76514",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.53268,
+          12.947168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SWAMIMALAI",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "ALAVANTHIPURAM-SWAMIMALAI(MURUGAN T, THANJAVUR, Tamil Nadu",
+        "state": "Tamil Nadu",
+        "city": "THANJAVUR",
+        "postcode": "612302",
+        "phone": "+91 80725 11770",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.322974,
+          10.955255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "STN MAYILADUTHURAI.",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "MAYILADUTHURAI TALUK, NAGAPATTINAM, Tamil Nadu",
+        "state": "Tamil Nadu",
+        "city": "NAGAPATTINAM",
+        "postcode": "609003",
+        "phone": "+91 99523 82948",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.568361,
+          10.991556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "JIGANI LINK ROAD",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "BRIDGE JIGANI LINK ROAD,HOSUR ROAD, BANGALORE, Karnataka",
+        "state": "Karnataka",
+        "city": "BANGALORE",
+        "postcode": "560099",
+        "phone": "+91 99005 05152",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.681278,
+          12.817917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CHANDAPURA 2",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "ATTIBELE HOBLI, BANGALORE, Karnataka",
+        "state": "Karnataka",
+        "city": "BANGALORE",
+        "postcode": "560081",
+        "phone": "+91 76187 54348",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.713806,
+          12.799891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CHANDAPURA - HOSUR ROAD",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "ANEKAL BALAGARANAHALLI VILL, ATTIBE, BANGALORE, Karnataka",
+        "state": "Karnataka",
+        "city": "BANGALORE",
+        "postcode": "562107",
+        "phone": "+91 90364 73001",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.736753,
+          12.78863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "STN RISHIVANDHIYAM.",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "SANKARAPURAM TK, VILLUPURAM, Tamil Nadu",
+        "state": "Tamil Nadu",
+        "city": "VILLUPURAM",
+        "postcode": "606205",
+        "phone": "+91 90039 33626",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.100103,
+          11.817674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "NEYVELI",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "KADAMPULIYUR, CUDDALORE, Tamil Nadu",
+        "state": "Tamil Nadu",
+        "city": "CUDDALORE",
+        "postcode": "607801",
+        "phone": "+91 94424 77786",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.549022,
+          11.63887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SIGARALAPPALLI",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "BARGUR TALUK,, KRISHNAGIRI, Tamil Nadu",
+        "state": "Tamil Nadu",
+        "city": "KRISHNAGIRI",
+        "postcode": "635104",
+        "phone": "+91 94860 70516",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.41021,
+          12.50307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "VIJAYA BANK LAYOUT",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "BEGUR HOBLI,BANGALORE SOUTH TALUK, BANGALORE, Karnataka",
+        "state": "Karnataka",
+        "city": "BANGALORE",
+        "postcode": "560068",
+        "phone": "+91 91130 44233",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.609206,
+          12.87688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MUTHAIYALPET",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "VELAYUTHAM PILLAI STREET, PUDUCHERRY, 34 Pondicherry",
+        "state": "34 Pondicherry",
+        "city": "PUDUCHERRY",
+        "postcode": "605003",
+        "phone": "+91 95001 27127",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.83141,
+          11.94669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SINGASANDRA BANGALORE",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "BEGURHOBLI SITUATED AT SINGASANDRA, BANGALORE, Karnataka",
+        "state": "Karnataka",
+        "city": "BANGALORE",
+        "postcode": "560068",
+        "phone": "+91 93809 51037",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.642851,
+          12.883492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SARJAPUR ROAD",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "SARJAPUR ROAD VARTHUR HOBLI, BANGALORE, Karnataka",
+        "state": "Karnataka",
+        "city": "BANGALORE",
+        "postcode": "560034",
+        "phone": "+91 63639 87514",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.722931,
+          12.895359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "HOSA ROAD",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "SRVYNO25/1 VARTHUR HOBLI, BANGALORE, Karnataka",
+        "state": "Karnataka",
+        "city": "BANGALORE",
+        "postcode": "560103",
+        "phone": "+91 90364 73001",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.675489,
+          12.899336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "HOSUR ROAD.",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "BEGUR HOBLI, BANGALORE, Karnataka",
+        "state": "Karnataka",
+        "city": "BANGALORE",
+        "postcode": "560068",
+        "phone": "+91 70192 99543",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.63344,
+          12.900215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BANNERGHATTA-2",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "B G MAIN ROAD, BANGALORE, Karnataka",
+        "state": "Karnataka",
+        "city": "BANGALORE",
+        "postcode": "560076",
+        "phone": "+91 97397 57537",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.601802,
+          12.906172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SARJAPURA RD WIPRO",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "VARTHUR HOBLI, SARJAPUR ROAD, BANGALORE, Karnataka",
+        "state": "Karnataka",
+        "city": "BANGALORE",
+        "postcode": "560035",
+        "phone": "+91 63639 87514",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.683473,
+          12.910964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "THAIYUR",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "THIRUPORUR TALUK,, CHENNAI, Tamil Nadu",
+        "state": "Tamil Nadu",
+        "city": "CHENNAI",
+        "postcode": "603103",
+        "phone": "+91 98845 78221",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.215016,
+          12.775067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "V K ROAD.",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "CHENGALPET TAL, CHENNAI, Tamil Nadu",
+        "state": "Tamil Nadu",
+        "city": "CHENNAI",
+        "postcode": "603103",
+        "phone": "+91 97900 05016",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.21794,
+          12.79139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "KAZHIPATTUR",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "SHOLINGANALLUR TALUK, CHENNAI, Tamil Nadu",
+        "state": "Tamil Nadu",
+        "city": "CHENNAI",
+        "postcode": "600119",
+        "phone": "+91 95001 29252",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.230272,
+          12.821069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "THAILAVARAM",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "GST ROAD THAILAVARAM, CHENGALPATTU, CHENNAI, Tamil Nadu",
+        "state": "Tamil Nadu",
+        "city": "CHENNAI",
+        "postcode": "603203",
+        "phone": "+91 97900 05016",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.046778,
+          12.83195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "KANNATHURREDDYKUPPAM",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "KANCHIPURAM DIST., CHENNAI, Tamil Nadu",
+        "state": "Tamil Nadu",
+        "city": "CHENNAI",
+        "postcode": "603112",
+        "phone": "+91 95001 29252",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.241059,
+          12.844261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "OLD MAHABALIPURAM ROAD.",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "OMR, TAMBARAM TK, KANCHEEPURAM, CHENNAI, Tamil Nadu",
+        "state": "Tamil Nadu",
+        "city": "CHENNAI",
+        "postcode": "600119",
+        "phone": "+91 95001 27127",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.22667,
+          12.86724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PADAPPAI",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "PADAPPAI SRIPERUMBADUR TALUK,KANCHI, CHENNAI, Tamil Nadu",
+        "state": "Tamil Nadu",
+        "city": "CHENNAI",
+        "postcode": "601301",
+        "phone": "+91 89439 09733",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.036299,
+          12.890786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "KOORAMBADI",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "KOORAMBADI, RANIPET, Tamil Nadu",
+        "state": "Tamil Nadu",
+        "city": "RANIPET",
+        "postcode": "632521",
+        "phone": "+91 88616 33999",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.312451,
+          12.857834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "AKKARAI",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "KANCHIPURAM DISTRICT, CHENNAI, Tamil Nadu",
+        "state": "Tamil Nadu",
+        "city": "CHENNAI",
+        "postcode": "600119",
+        "phone": "+91 95662 96969",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.246529,
+          12.895215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SHELL INJAMBAKKAM",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "INJAMBAKKAM, CHENNAI, Tamil Nadu",
+        "state": "Tamil Nadu",
+        "city": "CHENNAI",
+        "postcode": "600041",
+        "phone": "+91 88385 67628",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.25006,
+          12.90861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GOWRIVAKKAM,VELACHERYTAMBARAM ROAD",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "GOWRIVAKKAM, TAMBARAM TALUK, KANCHIPURAM, Tamil Nadu",
+        "state": "Tamil Nadu",
+        "city": "KANCHIPURAM",
+        "postcode": "600073",
+        "phone": "+91 95001 27127",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.165261,
+          12.921886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "VELACHERY RD",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "VILL PALIKARNI, CHENNAI, Tamil Nadu",
+        "state": "Tamil Nadu",
+        "city": "CHENNAI",
+        "postcode": "600100",
+        "phone": "+91 99946 11190",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.20905,
+          12.94707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SHELL CENTER CHENNAI",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "200’ ROAD, OPPOSITE KAMAKSHI HOSPIT, CHENNAI, Tamil Nadu",
+        "state": "Tamil Nadu",
+        "city": "CHENNAI",
+        "postcode": "600100",
+        "phone": "+91 11 4084 9548",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.207694,
+          12.948222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SRIPERUMBUDUR",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "SRIPERUMBUTTUR, KANCHIPURAM, Tamil Nadu",
+        "state": "Tamil Nadu",
+        "city": "KANCHIPURAM",
+        "postcode": "602105",
+        "phone": "+91 99442 93032",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.932389,
+          12.952611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "200 FT. LINK ROAD",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "200 FT LINK RD, D KANCHEEPURAM, CHENNAI, Tamil Nadu",
+        "state": "Tamil Nadu",
+        "city": "CHENNAI",
+        "postcode": "600043",
+        "phone": "+91 88385 67628",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.17021,
+          12.95253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CHROMPET 2.",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "GST RD, CHROMPET, CHENNAI, Tamil Nadu",
+        "state": "Tamil Nadu",
+        "city": "CHENNAI",
+        "postcode": "600044",
+        "phone": "+91 98845 78221",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.14293,
+          12.95506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SHELL MEDAVAKKAM",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "265/12 MEDAVAKKAM MAIN ROAD, CHENNAI, Tamil Nadu",
+        "state": "Tamil Nadu",
+        "city": "CHENNAI",
+        "postcode": "600091",
+        "phone": "+91 80722 89663",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.187569,
+          12.964086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ABDULLAPURAM",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "REVENUE VILLAGE-MELMONAVUR, VELLORE, Tamil Nadu",
+        "state": "Tamil Nadu",
+        "city": "VELLORE",
+        "postcode": "632010",
+        "phone": "+91 416 297 2731",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.077642,
+          12.915055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "KAVANUR - M",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "SH113, CHENNAI, Tamil Nadu",
+        "state": "Tamil Nadu",
+        "city": "CHENNAI",
+        "postcode": "600069",
+        "phone": "+91 89439 09733",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.077383,
+          12.99411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "KUNDRATHUR ROAD",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "KUNDRATHUR ROAD, CHENNAI, Tamil Nadu",
+        "state": "Tamil Nadu",
+        "city": "CHENNAI",
+        "postcode": "600125",
+        "phone": "+91 95662 96969",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.144953,
+          13.021635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "J N ROAD",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "JN RD, EKKATTUTHANGAL, CHENNAI, Tamil Nadu",
+        "state": "Tamil Nadu",
+        "city": "CHENNAI",
+        "postcode": "600032",
+        "phone": "+91 93600 11911",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.20657,
+          13.02474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PORUR",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "MOUNT POONAMALLEE RD, PORUR, CHENNAI, Tamil Nadu",
+        "state": "Tamil Nadu",
+        "city": "CHENNAI",
+        "postcode": "600116",
+        "phone": "+91 89398 79441",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.16456,
+          13.0313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "VALASARAVAKKAM.",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "VALASARAVAKKAM, CHENNAI, Tamil Nadu",
+        "state": "Tamil Nadu",
+        "city": "CHENNAI",
+        "postcode": "600087",
+        "phone": "+91 89398 79443",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.17959,
+          13.04226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "KATTUPAKKAM",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "POONAMALLEE TALUK, TIRUVALLUR DIST, CHENNAI, Tamil Nadu",
+        "state": "Tamil Nadu",
+        "city": "CHENNAI",
+        "postcode": "600056",
+        "phone": "+91 95000 19990",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.120003,
+          13.047137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "KOYAMBEDU",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "JANAKIRAMAN COLONY, KOYAMBEDU, CHENNAI, Tamil Nadu",
+        "state": "Tamil Nadu",
+        "city": "CHENNAI",
+        "postcode": "600107",
+        "phone": "+91 93600 11911",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.20081,
+          13.073735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MADURAVOYAL",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "NAGAR, MADURAVOYAL,THIRUVALUR DIST, CHENNAI, Tamil Nadu",
+        "state": "Tamil Nadu",
+        "city": "CHENNAI",
+        "postcode": "600107",
+        "phone": "+91 78248 65095",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.178919,
+          13.068213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "POONAMALLEE",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "POONAMALLEE RD, VILL POONAMALLEE, CHENNAI, Tamil Nadu",
+        "state": "Tamil Nadu",
+        "city": "CHENNAI",
+        "postcode": "600056",
+        "phone": "+91 95000 19990",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.10623,
+          13.04935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SEMBARAMBAKKAM",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "VILLAGE 32 POONAMALLE TALUK,THIRUVA, CHENNAI, Tamil Nadu",
+        "state": "Tamil Nadu",
+        "city": "CHENNAI",
+        "postcode": "600124",
+        "phone": "+91 82488 74449",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.039933,
+          13.035276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "VAVIN, MOGAPPAIR",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "MOGAPPAIR EAST, CHENNAI, Tamil Nadu",
+        "state": "Tamil Nadu",
+        "city": "CHENNAI",
+        "postcode": "600058",
+        "phone": "+91 89398 79445",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.170255,
+          13.088764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "AMBATTUR.",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "VILL PADI, MTH RD, AMBATTUR, CHENNAI, Tamil Nadu",
+        "state": "Tamil Nadu",
+        "city": "CHENNAI",
+        "postcode": "600050",
+        "phone": "+91 89398 79442",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.17841,
+          13.09754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GNT ROAD.",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "VILL MADHAVARAM, GNT RD, CHENNAI, Tamil Nadu",
+        "state": "Tamil Nadu",
+        "city": "CHENNAI",
+        "postcode": "600110",
+        "phone": "+91 93600 11911",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.23067,
+          13.13638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MADHAVARAM.",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "VILL MADHAVARAM, CHENNAI, Tamil Nadu",
+        "state": "Tamil Nadu",
+        "city": "CHENNAI",
+        "postcode": "600099",
+        "phone": "+91 99622 03678",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.214713,
+          13.132978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "KORATTUR AAVIN-DAIRY ROAD",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "KORATTUR OPP TO AAVIN MILK PROCESSI, CHENNAI, Tamil Nadu",
+        "state": "Tamil Nadu",
+        "city": "CHENNAI",
+        "postcode": "600080",
+        "phone": "+91 99622 03678",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.176419,
+          13.108624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "EDAYANCHAVADI",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "KADAPPAKKAM VILLAGE,THIRUVALLUR, CHENNAI, Tamil Nadu",
+        "state": "Tamil Nadu",
+        "city": "CHENNAI",
+        "postcode": "600103",
+        "phone": "+91 99442 93032",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.269261,
+          13.201578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "HSR LAYOUT",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "OPP. HSR CLUB, BANGALORE, Karnataka",
+        "state": "Karnataka",
+        "city": "BANGALORE",
+        "postcode": "560102",
+        "phone": "+91 73531 57308",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.644367,
+          12.909029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SHELL AVADI",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "CTH ROAD AVADI TALUK, THIRUVALLUR D, THIRUVALLUR, Tamil Nadu",
+        "state": "Tamil Nadu",
+        "city": "THIRUVALLUR",
+        "postcode": "600054",
+        "phone": "+91 89398 81666",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.109755,
+          13.122797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "KARAD ENTRY",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "VILL SATARA,, KARAD, Maharashtra",
+        "state": "Maharashtra",
+        "city": "KARAD",
+        "postcode": "415109",
+        "phone": "+91 88791 33333",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.135391,
+          17.345787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "VARVE BK",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "VILLAGE VRVE BK, PUNE, Maharashtra",
+        "state": "Maharashtra",
+        "city": "PUNE",
+        "postcode": "412205",
+        "phone": "+91 97666 91016",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.871637,
+          18.295566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "VARVE.",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "NR RASOI MAGIC, VIL VARVE, T BHOR, PUNE, Maharashtra",
+        "state": "Maharashtra",
+        "city": "PUNE",
+        "postcode": "412205",
+        "phone": "+91 74209 04682",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.86767,
+          18.31038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MYSORE RD",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "OPP BHEL, MYSORE RD, BANGALORE, Karnataka",
+        "state": "Karnataka",
+        "city": "BANGALORE",
+        "postcode": "560039",
+        "phone": "+91 78992 51139",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.53269,
+          12.94794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "JP NAGAR",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "NO 777 100 FEET ROAD,, BANGALORE, Karnataka",
+        "state": "Karnataka",
+        "city": "BANGALORE",
+        "postcode": "560078",
+        "phone": "+91 70227 40035",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.57929,
+          12.906554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "HARLUR ROAD",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "AMBALIPURA, BANGALORE, Karnataka",
+        "state": "Karnataka",
+        "city": "BANGALORE",
+        "postcode": "560102",
+        "phone": "+91 90364 73001",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.665545,
+          12.912819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ANDHERI SAKI VIHAR",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "TAL - KURLA, MUMBAI, Navi Mumbai",
+        "state": "Navi Mumbai",
+        "city": "MUMBAI",
+        "postcode": "400072",
+        "phone": "+91 98679 72998",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.888071,
+          19.106059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "POWAI JVLR, MUMBAI",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "TALUKA-KURLA, VIKHROLI WEST, MUMBAI, Navi Mumbai",
+        "state": "Navi Mumbai",
+        "city": "MUMBAI",
+        "postcode": "400083",
+        "phone": "+91 93249 99385",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.92137,
+          19.12624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PANVEL NH48, MUMBAI",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "TALUKA PANVEL NH 48 (OLD NH4), RAIG, MUMBAI, Maharashtra",
+        "state": "Maharashtra",
+        "city": "MUMBAI",
+        "postcode": "410221",
+        "phone": "+91 94049 77055",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.14118,
+          18.96471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MULSHI RD.",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "MULSHI RD, VILL BHUKUM T MULSHI, PUNE, Maharashtra",
+        "state": "Maharashtra",
+        "city": "PUNE",
+        "postcode": "411042",
+        "phone": "+91 88880 03456",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7265,
+          18.500522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "STN THANE BELAPUR ROAD MUMBAI.",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "THANE BELAPUR ROAD REBALE, NAVI MUMBAI, Navi Mumbai",
+        "state": "Navi Mumbai",
+        "city": "NAVI MUMBAI",
+        "postcode": "400708",
+        "phone": "+91 98929 81049",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.001396,
+          19.145397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "VADAGAON SINHAGAD ROAD",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "VILLAGE-DHAYARI, TAL.- HAVELI, PUNE, Maharashtra",
+        "state": "Maharashtra",
+        "city": "PUNE",
+        "postcode": "411041",
+        "phone": "+91 91563 87759",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.80543,
+          18.457267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PANCH PAKHADI, THANE",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "EASTERN EXPRESS HIGHWAY,SERVICE RD, THANE, Navi Mumbai",
+        "state": "Navi Mumbai",
+        "city": "THANE",
+        "postcode": "400602",
+        "phone": "+91 93708 26133",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.963081,
+          19.195491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "WARJE",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "WARJE, PUNE, Maharashtra",
+        "state": "Maharashtra",
+        "city": "PUNE",
+        "postcode": "411052",
+        "phone": "+91 87999 70748",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.79526,
+          18.487556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "HINJEWADI - PH-2",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "VILLAGE: MAAN, TALUKA: MULSHI, PUNE, Maharashtra",
+        "state": "Maharashtra",
+        "city": "PUNE",
+        "postcode": "411057",
+        "phone": "+91 70387 96660",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.701427,
+          18.587201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "AMBEGAON",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "AMBEGAON BUDRUK, PUNE, Maharashtra",
+        "state": "Maharashtra",
+        "city": "PUNE",
+        "postcode": "411046",
+        "phone": "+91 77588 37959",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.846443,
+          18.451146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SUSS ROAD",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "SUS VILLAGE,, PUNE, Maharashtra",
+        "state": "Maharashtra",
+        "city": "PUNE",
+        "postcode": "411021",
+        "phone": "+91 83296 09721",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.76083,
+          18.551943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "HINJEWADI",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "HINJEWADI RD, VILL HINJEWADI, PUNE, Maharashtra",
+        "state": "Maharashtra",
+        "city": "PUNE",
+        "postcode": "411057",
+        "phone": "+91 70387 96660",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.74117,
+          18.590625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SENAPATI BAPAT ROAD",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "BHAMBURDA SENAPATI BAPAT ROAD, SHIV, PUNE, Maharashtra",
+        "state": "Maharashtra",
+        "city": "PUNE",
+        "postcode": "411016",
+        "phone": "+91 92091 85873",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.829697,
+          18.5268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BHAYANDER PADA",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "GHODBUNDER ROAD ,THANE WEST, THANE, Navi Mumbai",
+        "state": "Navi Mumbai",
+        "city": "THANE",
+        "postcode": "400615",
+        "phone": "+91 93708 26133",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.940724,
+          19.285149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PALAVA DOMBIVALI",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "TALUKA- KALYAN, THANE, Navi Mumbai",
+        "state": "Navi Mumbai",
+        "city": "THANE",
+        "postcode": "421204",
+        "phone": "+91 77388 99506",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.087067,
+          19.17805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TATHODE",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "VILL TATHEWADE, T MULSHI, PCMC, PUNE, Maharashtra",
+        "state": "Maharashtra",
+        "city": "PUNE",
+        "postcode": "411033",
+        "phone": "+91 89562 15154",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.74886,
+          18.614056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MOHAMMADWADI, PUNE",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "TAL- HAVELI, PUNE, Maharashtra",
+        "state": "Maharashtra",
+        "city": "PUNE",
+        "postcode": "411028",
+        "phone": "+91 99226 09394",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.918238,
+          18.466112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "KOTAGUDDA",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "PAVAGADA TALUK, TUMKUR, Karnataka",
+        "state": "Karnataka",
+        "city": "TUMKUR",
+        "postcode": "572141",
+        "phone": "+91 85498 47908",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.183916,
+          14.140166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CHIKKABIDEREKALLU",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "DASANAPURA 2 HOBLI,NORTH TALUK, BANGALORE, Karnataka",
+        "state": "Karnataka",
+        "city": "BANGALORE",
+        "postcode": "560073",
+        "phone": "+91 98451 27994",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.490622,
+          13.051664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TUMKUR RD",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "DASARAHALLI, VILL NAGASANDRA, BANGALORE, Karnataka",
+        "state": "Karnataka",
+        "city": "BANGALORE",
+        "postcode": "560073",
+        "phone": "+91 83101 61154",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.502285,
+          13.046599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SONNENAHALLI",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "HESARAGHATTA HOBLI, BANGALORE, Karnataka",
+        "state": "Karnataka",
+        "city": "BANGALORE",
+        "postcode": "560089",
+        "phone": "+91 90086 33779",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.500486,
+          13.196215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GURUGUENTEPALAYA",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "YESHWANTHAPURA, BANGALORE, Karnataka",
+        "state": "Karnataka",
+        "city": "BANGALORE",
+        "postcode": "560022",
+        "phone": "+91 90084 99622",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.535854,
+          13.028327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CHANASANDRA",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "BIDARAHALLI  HOBLI., BANGALORE, Karnataka",
+        "state": "Karnataka",
+        "city": "BANGALORE",
+        "postcode": "560067",
+        "phone": "+91 98453 53418",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.77049,
+          12.98369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SAI BABA ASHRAM.",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "SAIBABA RD, BIDARANAHALLI HOBLI, BANGALORE, Karnataka",
+        "state": "Karnataka",
+        "city": "BANGALORE",
+        "postcode": "560067",
+        "phone": "+91 78999 13232",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.76178,
+          13.01758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "WHITE FILED MAIN ROAD",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "WHITEFIELD ROAD,PATTANDUR AGRAHARA, BENGALURU, Karnataka",
+        "state": "Karnataka",
+        "city": "BENGALURU",
+        "postcode": "560066",
+        "phone": "+91 87222 14359",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.751752,
+          12.982045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "VENKATPURA",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "DISTRICT-KOLAR, VENKATPURA, Karnataka",
+        "state": "Karnataka",
+        "city": "VENKATPURA",
+        "postcode": "563101",
+        "phone": "+91 96115 72727",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.208449,
+          13.138758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "OLD MADRAS ROAD,AVALAHALLI",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "BIDARAHALLI HOBLI,BANGALORE EAST, BANGALORE, Karnataka",
+        "state": "Karnataka",
+        "city": "BANGALORE",
+        "postcode": "560049",
+        "phone": "+91 73489 84666",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.741273,
+          13.039976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BUDIGERE ROAD,BANGALORE",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "HOSAKOTE CHEEMASANDRA VIL,BIDARAHAL, BANGALORE, Karnataka",
+        "state": "Karnataka",
+        "city": "BANGALORE",
+        "postcode": "560049",
+        "phone": "+91 78999 13232",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.742639,
+          13.060278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "VARTHUR GUNJUR ROAD BANGALORE",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "VARTHUR HOBLI BENGALURU EAST TALUK, BENGALURU, Karnataka",
+        "state": "Karnataka",
+        "city": "BENGALURU",
+        "postcode": "560087",
+        "phone": "+91 89717 21163",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.74007,
+          12.932081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PRESTIGE SHANTINIKETAN",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "KR PURAM HOBLI, BANGALORE, Karnataka",
+        "state": "Karnataka",
+        "city": "BANGALORE",
+        "postcode": "560048",
+        "phone": "+91 96868 62674",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.72989,
+          12.992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "VARTHUR ROAD.",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "VILL SIDAPUR, VARTHUR HOBLI, BANGALORE, Karnataka",
+        "state": "Karnataka",
+        "city": "BANGALORE",
+        "postcode": "560066",
+        "phone": "+91 63633 18015",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.73144,
+          12.956295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "KUNDALAHALLI MAIN ROAD",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "HOBLI,BANGALORE EAST, BANGALORE, Karnataka",
+        "state": "Karnataka",
+        "city": "BANGALORE",
+        "postcode": "560066",
+        "phone": "+91 63633 18015",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.716583,
+          12.962028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BROOKFIELD",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "BROOKFIELD RD, VILL HOODI, BANGALORE, Karnataka",
+        "state": "Karnataka",
+        "city": "BANGALORE",
+        "postcode": "560048",
+        "phone": "+91 95536 82255",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.70814,
+          12.982598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "HIREPALYA",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "CHIKBALLAPURA, CHINTAMANI, Karnataka",
+        "state": "Karnataka",
+        "city": "CHINTAMANI",
+        "postcode": "563128",
+        "phone": "+91 96329 80005",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.95695,
+          13.28205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BAGMANE SOLARIUM OFFICE BANGALORE",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "KUNDALAHALLI COLONY, BROOKEFIELD, BENGALURU, Karnataka",
+        "state": "Karnataka",
+        "city": "BENGALURU",
+        "postcode": "560037",
+        "phone": "+91 11 4084 9548",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.70771,
+          12.97241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MARATHAHALLI ORR BANGALORE",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "VARTHUR HOBLI, BANGALORE, Karnataka",
+        "state": "Karnataka",
+        "city": "BANGALORE",
+        "postcode": "560037",
+        "phone": "+91 90364 73001",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.697828,
+          12.943099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "WHITEFIELD.",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "MAHADEVPURA, WHITEFIELD MAIN RD, BANGALORE, Karnataka",
+        "state": "Karnataka",
+        "city": "BANGALORE",
+        "postcode": "560048",
+        "phone": "+91 73489 84666",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.68917,
+          12.998097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PRESTIGE TECHPARK",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "KADABISANAHALLI VILLAGE, VARTHUR HO, BANGALORE, Karnataka",
+        "state": "Karnataka",
+        "city": "BANGALORE",
+        "postcode": "560037",
+        "phone": "+91 90364 73001",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6923,
+          12.94224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "VIBHUTIPURA",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "VIGNANANAGAR MAIN RD, VIBHUTIPURA, BANGALORE, Karnataka",
+        "state": "Karnataka",
+        "city": "BANGALORE",
+        "postcode": "560037",
+        "phone": "+91 90356 06150",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.68186,
+          12.971211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "T C PALYA",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "KALKERE VILLAGE, BANGALORE, Karnataka",
+        "state": "Karnataka",
+        "city": "BANGALORE",
+        "postcode": "560016",
+        "phone": "+91 90363 85816",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.678842,
+          13.021402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "RAMAMURTHYNAGAR",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "RAMAMURTHYNAGAR MAIN ROAD, BANGALORE, Karnataka",
+        "state": "Karnataka",
+        "city": "BANGALORE",
+        "postcode": "560016",
+        "phone": "+91 83106 05440",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.672564,
+          13.011631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SHELL TECHNOLOGY CENTER BNGLRE",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "KIADB INDUSTRIAL PARK, BANGALORE, Karnataka",
+        "state": "Karnataka",
+        "city": "BANGALORE",
+        "postcode": "562149",
+        "phone": "+91 11 4084 9548",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.702755,
+          13.154358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BELLANDUR",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "80/2 OUTER RING ROAD., BANGALORE, Karnataka",
+        "state": "Karnataka",
+        "city": "BANGALORE",
+        "postcode": "560037",
+        "phone": "+91 90364 73001",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.67138,
+          12.923162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "OLD MADRAS ROAD",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "OLD MADRAS ROAD, K R PURAM HOBLI, BANGALORE, Karnataka",
+        "state": "Karnataka",
+        "city": "BANGALORE",
+        "postcode": "560093",
+        "phone": "+91 99164 40062",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.65959,
+          12.991871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "INDIRANAGAR 80 FT ROAD",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "WARD NO.83,CV RAMAN NAGAR, BENGALURU, Karnataka",
+        "state": "Karnataka",
+        "city": "BENGALURU",
+        "postcode": "560038",
+        "phone": "+91 98800 11055",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.647043,
+          12.97406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "HENNUR 2",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "OPP MANTRI WEB CITY, BANGALORE, Karnataka",
+        "state": "Karnataka",
+        "city": "BANGALORE",
+        "postcode": "560077",
+        "phone": "+91 96406 10002",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.65166,
+          13.07382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "HENNUR",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "KRISHNARAJAPURA, HOBLI, BANGALORE, Karnataka",
+        "state": "Karnataka",
+        "city": "BANGALORE",
+        "postcode": "560077",
+        "phone": "+91 95902 04040",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.642855,
+          13.044172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "INTERMEDIATE RING ROAD",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "AMARJYOTI CO-OPERATIVE, IRR DOMLUR, BENGALURU, Karnataka",
+        "state": "Karnataka",
+        "city": "BENGALURU",
+        "postcode": "560038",
+        "phone": "+91 96208 01595",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.640478,
+          12.953096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GOKARE ROAD",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "DEVENAHALLI, BANGALORE, Karnataka",
+        "state": "Karnataka",
+        "city": "BANGALORE",
+        "postcode": "562129",
+        "phone": "+91 99514 99888",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.723889,
+          13.238694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "KARKAMBADI",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "KARAKAMBADI ROAD, TIRUPATI, 37 Andhra Pradesh",
+        "state": "37 Andhra Pradesh",
+        "city": "TIRUPATI",
+        "postcode": "517501",
+        "phone": "+91 98496 17162",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.445594,
+          13.648151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TALALA",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "DISTRICT TALALA, GIR SOMNATH, Gujarat",
+        "state": "Gujarat",
+        "city": "GIR SOMNATH",
+        "postcode": "362150",
+        "phone": "+91 94272 27897",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.534852,
+          21.060715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TALEGAON.",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "OLD BOMBAY RD, PUNE, Maharashtra",
+        "state": "Maharashtra",
+        "city": "PUNE",
+        "postcode": "410506",
+        "phone": "+91 90047 77149",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.70119,
+          18.697506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "RAVET - PUNE",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "TALUKA - HAVELI, PUNE, Maharashtra",
+        "state": "Maharashtra",
+        "city": "PUNE",
+        "postcode": "411033",
+        "phone": "+91 82375 47883",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.732509,
+          18.65638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PIMPLE NILAKH",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "VISHAL NAGAR, PIMPLE NILAKH, PUNE, Maharashtra",
+        "state": "Maharashtra",
+        "city": "PUNE",
+        "postcode": "411027",
+        "phone": "+91 99222 12097",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.781582,
+          18.585773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "RAVET BRT",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "RAVET, PUNE, Maharashtra",
+        "state": "Maharashtra",
+        "city": "PUNE",
+        "postcode": "411044",
+        "phone": "+91 88308 64171",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.73984,
+          18.65001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "STN THERGAON PUNE",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "AUNDH RAVET ROAD PCMC, PUNE, Maharashtra",
+        "state": "Maharashtra",
+        "city": "PUNE",
+        "postcode": "411017",
+        "phone": "+91 97663 33680",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.768151,
+          18.611373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SHIVAJINAGAR",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "(WELLESLEY ROAD), PUNE, Maharashtra",
+        "state": "Maharashtra",
+        "city": "PUNE",
+        "postcode": "411003",
+        "phone": "+91 84848 43422",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.85413,
+          18.5311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PIMPLE GURAV",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "PIMPLE GURAV, PUNE, Maharashtra",
+        "state": "Maharashtra",
+        "city": "PUNE",
+        "postcode": "411061",
+        "phone": "+91 99222 12097",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.81682,
+          18.59073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "AIR INDIA HOUSE,RTO CHOWK",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "NEAR RTO F.P. NO. 308 OF AIR INDIA, PUNE, Maharashtra",
+        "state": "Maharashtra",
+        "city": "PUNE",
+        "postcode": "411001",
+        "phone": "+91 91568 48424",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.862219,
+          18.529529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PIMPRI",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "OLD BOMBAY RD, KASARWADI, PCMC, PUNE, Maharashtra",
+        "state": "Maharashtra",
+        "city": "PUNE",
+        "postcode": "411018",
+        "phone": "+91 92848 26604",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.81722,
+          18.612058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "KESHOD",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "TALUKA KESHOD, JUNAGADH, Gujarat",
+        "state": "Gujarat",
+        "city": "JUNAGADH",
+        "postcode": "362220",
+        "phone": "+91 94266 34215",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.253035,
+          21.282226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "KALASAGAR",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "PIMPRI, PCMC, PUNE, Maharashtra",
+        "state": "Maharashtra",
+        "city": "PUNE",
+        "postcode": "411018",
+        "phone": "+91 82620 38978",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8176,
+          18.612992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SADHU VASWANI ROAD - PUNE",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "TAL.- HAVELI, DIST.- PUNE, PUNE, Maharashtra",
+        "state": "Maharashtra",
+        "city": "PUNE",
+        "postcode": "411001",
+        "phone": "+91 70286 00979",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.876717,
+          18.525782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CHINCHWAD",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "CHINCHWAD PCMC, PUNE, Maharashtra",
+        "state": "Maharashtra",
+        "city": "PUNE",
+        "postcode": "411019",
+        "phone": "+91 98500 50409",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.80674,
+          18.648581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "URULI 2, PUNE",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "URULI, PUNE, Maharashtra",
+        "state": "Maharashtra",
+        "city": "PUNE",
+        "postcode": "412307",
+        "phone": "+91 97620 51150",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.945214,
+          18.457166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "HADAPSAR",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "HADAPSAR, PUNE, Maharashtra",
+        "state": "Maharashtra",
+        "city": "PUNE",
+        "postcode": "411028",
+        "phone": "+91 91759 77659",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.95267,
+          18.5015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TEMBURNI",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "TALUKA MADHA,, SOLAPUR, Maharashtra",
+        "state": "Maharashtra",
+        "city": "SOLAPUR",
+        "postcode": "413211",
+        "phone": "+91 94223 50041",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.16045,
+          18.038899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SOLAPUR RD.",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "NH9, VILL LONI KALBHOR, PUNE, Maharashtra",
+        "state": "Maharashtra",
+        "city": "PUNE",
+        "postcode": "412204",
+        "phone": "+91 84848 22047",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.04156,
+          18.48875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "THIRUMANI",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "DISTRICT-TUMKUR, TUMKUR, Karnataka",
+        "state": "Karnataka",
+        "city": "TUMKUR",
+        "postcode": "572136",
+        "phone": "+91 94817 45861",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.43054,
+          14.22721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "DOMMATHAMARI",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "TUMKUR, TUMKUR, Karnataka",
+        "state": "Karnataka",
+        "city": "TUMKUR",
+        "postcode": "561202",
+        "phone": "+91 89711 50711",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.371878,
+          13.970926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MUDDENHALLI",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "MADHUGIRI TALUK, TUMKUR, Karnataka",
+        "state": "Karnataka",
+        "city": "TUMKUR",
+        "postcode": "572132",
+        "phone": "+91 94496 74050",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.426712,
+          13.789721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GAURIBIDNAUR",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "DISTRICT-CHIKKABALLAPUR, CHIKKABALLAPUR, Karnataka",
+        "state": "Karnataka",
+        "city": "CHIKKABALLAPUR",
+        "postcode": "561228",
+        "phone": "+91 98455 38708",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.517558,
+          13.628367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "REDDYPALLI",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "ANANTHAPURAM DISTRICT, NALLAMADA MANDAL, 37 Andhra Pradesh",
+        "state": "37 Andhra Pradesh",
+        "city": "NALLAMADA MANDAL",
+        "postcode": "515501",
+        "phone": "+91 79810 35539",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.025079,
+          14.219515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "AROOR",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "AROOR VILLAGE, CHIKKABLLAPUR TALUK, AROOR, Karnataka",
+        "state": "Karnataka",
+        "city": "AROOR",
+        "postcode": "562104",
+        "phone": "+91 98450 41468",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.78135,
+          13.57343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "YARRAGANAPALLI",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "YARRAGANAPALLI, CHIKKABALLAPUR, Karnataka",
+        "state": "Karnataka",
+        "city": "CHIKKABALLAPUR",
+        "postcode": "563124",
+        "phone": "+91 63616 31725",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.022165,
+          13.855153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CHAKAVELU",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "DISTRICT-CHIKKABALLAPUR, CHAKAVELU, Karnataka",
+        "state": "Karnataka",
+        "city": "CHAKAVELU",
+        "postcode": "563124",
+        "phone": "+91 99004 93892",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.092169,
+          13.817126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BYRAGANAHALLI",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "CHIKKABALLAPUR DISTRICT, SIDLAGHATTA, Karnataka",
+        "state": "Karnataka",
+        "city": "SIDLAGHATTA",
+        "postcode": "562105",
+        "phone": "+91 86391 19154",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.969029,
+          13.623357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "KENCHARALAHALLI",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "CHINTAMANI, CHIKKABALLAPUR, Karnataka",
+        "state": "Karnataka",
+        "city": "CHIKKABALLAPUR",
+        "postcode": "563125",
+        "phone": "+91 94499 25158",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.073723,
+          13.511563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CHAKKAPALLI",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "NELAVANKI HOBLI,, KOLAR, Karnataka",
+        "state": "Karnataka",
+        "city": "KOLAR",
+        "postcode": "563135",
+        "phone": "+91 98869 99503",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.272688,
+          13.460105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CHINTAMANI",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "CHIKKABALLAPUR, CHIKKABALLAPUR, Karnataka",
+        "state": "Karnataka",
+        "city": "CHIKKABALLAPUR",
+        "postcode": "563125",
+        "phone": "+91 98450 19700",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.042271,
+          13.404421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "KORNHALLI",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "SRINIVASPUR TALUK,, KOLAR, Karnataka",
+        "state": "Karnataka",
+        "city": "KOLAR",
+        "postcode": "563138",
+        "phone": "+91 96329 80005",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.321661,
+          13.370866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "DEVANAHALLI",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "NH7 BYPASS DEVAHALLI TOWN, BANGALORE, Karnataka",
+        "state": "Karnataka",
+        "city": "BANGALORE",
+        "postcode": "562110",
+        "phone": "+91 78996 59170",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.717523,
+          13.264214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "DEVANAHALLI NH 44",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "DEVANAHALLI TALUK, BANGALORE, Karnataka",
+        "state": "Karnataka",
+        "city": "BANGALORE",
+        "postcode": "562110",
+        "phone": "+91 95902 04040",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.702598,
+          13.241076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BANGALORE AIRPORT (BIAL)",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "SURVEY NO.7 OF MYLANAHALLI VILLAGE, BANGALORE, Karnataka",
+        "state": "Karnataka",
+        "city": "BANGALORE",
+        "postcode": "560300",
+        "phone": "+91 78996 59170",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.690694,
+          13.199917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "YELAHANKA BANGALORE",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "BANGALORE NORTH TALUK, BANGALORE, Karnataka",
+        "state": "Karnataka",
+        "city": "BANGALORE",
+        "postcode": "560064",
+        "phone": "+91 99514 99888",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.571493,
+          13.130347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "KOGILU MAIN ROAD",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "YELAHANKA YELAHANKA 2ND DIVISION,, BANGALORE, Karnataka",
+        "state": "Karnataka",
+        "city": "BANGALORE",
+        "postcode": "560064",
+        "phone": "+91 70198 98524",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.604488,
+          13.104258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MAJOR SANDEEP UNNI KRISHNAN",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "ATTUR LAYOUT, YELAHANKA HOBLI,, BENGALURU, Karnataka",
+        "state": "Karnataka",
+        "city": "BENGALURU",
+        "postcode": "560064",
+        "phone": "+91 91875 69419",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.565824,
+          13.097874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MOPURAHALLI",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "MULBAGAL TALUK,, KOLAR, Karnataka",
+        "state": "Karnataka",
+        "city": "KOLAR",
+        "postcode": "563136",
+        "phone": "+91 99027 10111",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.46662,
+          13.088736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BELLARY RD",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "BELLARY RD, YELAHANKA HOBLI, BANGALORE, Karnataka",
+        "state": "Karnataka",
+        "city": "BANGALORE",
+        "postcode": "560092",
+        "phone": "+91 96114 08554",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.59305,
+          13.071727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "KARUMANCHI",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "SAVALYAPURAM MANDAL,, GUNTUR, 37 Andhra Pradesh",
+        "state": "37 Andhra Pradesh",
+        "city": "GUNTUR",
+        "postcode": "522646",
+        "phone": "+91 91004 22346",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.87706,
+          16.062056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "LALPUR ROAD",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "NEAR PUMP HOUSE, JAMNAGAR, Gujarat",
+        "state": "Gujarat",
+        "city": "JAMNAGAR",
+        "postcode": "361005",
+        "phone": "+91 90999 59880",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.065401,
+          22.436427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "AERDROME RD, JAMNAGAR",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "AERODROME ROAD,, JAMNAGAR, Gujarat",
+        "state": "Gujarat",
+        "city": "JAMNAGAR",
+        "postcode": "361006",
+        "phone": "+91 90999 59880",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.050889,
+          22.471332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PARDI RAJKOT",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "RAJKOT-GONDAL HIGHWAY, TAL: LODHIKA, RAJKOT, Gujarat",
+        "state": "Gujarat",
+        "city": "RAJKOT",
+        "postcode": "360024",
+        "phone": "+91 98256 26086",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.800009,
+          22.188192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "RAJKOT ROAD",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "JAMNAGAR - RAJKOT ROAD, JAMNAGAR, Gujarat",
+        "state": "Gujarat",
+        "city": "JAMNAGAR",
+        "postcode": "361120",
+        "phone": "+91 90999 59880",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.184271,
+          22.500112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MAVDI, 150 FT RINGRD",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "150 FT RING ROAD, RAJKOT, Gujarat",
+        "state": "Gujarat",
+        "city": "RAJKOT",
+        "postcode": "360004",
+        "phone": "+91 98795 14041",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.788828,
+          22.257816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "KALAWAD ROAD.",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "STN RS NO111, PAIKI, RAJKOT, Gujarat",
+        "state": "Gujarat",
+        "city": "RAJKOT",
+        "postcode": "360005",
+        "phone": "+91 70417 23281",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.76393,
+          22.279342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GONDAL ROAD",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "GONDAL ROAD, RAJKOT, Gujarat",
+        "state": "Gujarat",
+        "city": "RAJKOT",
+        "postcode": "360002",
+        "phone": "+91 98795 14041",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.79959,
+          22.280917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "150 FT RING ROAD",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "STERLING HOSPITAL,150 FT RING ROAD, RAJKOT, Gujarat",
+        "state": "Gujarat",
+        "city": "RAJKOT",
+        "postcode": "360007",
+        "phone": "+91 78020 80077",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.768525,
+          22.306656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "YAGNIK ROAD",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "TRIKON BAGH, YAGNIK RD, RAJKOT, Gujarat",
+        "state": "Gujarat",
+        "city": "RAJKOT",
+        "postcode": "360001",
+        "phone": "+91 70698 97781",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.80093,
+          22.2936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "KUVADVA RD",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "KUVADVA ROAD, RAJKOT, Gujarat",
+        "state": "Gujarat",
+        "city": "RAJKOT",
+        "postcode": "360003",
+        "phone": "+91 281 256 2700",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.81483,
+          22.306961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "KHALAMBURE CHAKAN",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "TALEGAON CHAKAN ROAD,, PUNE, Maharashtra",
+        "state": "Maharashtra",
+        "city": "PUNE",
+        "postcode": "410507",
+        "phone": "+91 80874 59646",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.788153,
+          18.745723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CHIKHALI EXIT",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "DEHU MOSHI ROAD, PUNE, Maharashtra",
+        "state": "Maharashtra",
+        "city": "PUNE",
+        "postcode": "411062",
+        "phone": "+91 96570 95166",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.830138,
+          18.681525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MAGARPATTA",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "MUNDHWA KHARADI BYPASS, PUNE, Maharashtra",
+        "state": "Maharashtra",
+        "city": "PUNE",
+        "postcode": "411036",
+        "phone": "+91 99602 80669",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.93289,
+          18.531872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "KHARADI.",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "KHARADI, PUNE, Maharashtra",
+        "state": "Maharashtra",
+        "city": "PUNE",
+        "postcode": "411014",
+        "phone": "+91 84848 22037",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.93819,
+          18.55889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "NAGAR ROAD",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "NEAR HADAPSAR BYPASS,PUNE- NAGAR RO, KHARADI, PUNE, Maharashtra",
+        "state": "Maharashtra",
+        "city": "KHARADI, PUNE",
+        "postcode": "411014",
+        "phone": "+91 74208 76410",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.93982,
+          18.56282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "WAGHOLI 2",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "WAGHOLI, PUNE, Maharashtra",
+        "state": "Maharashtra",
+        "city": "PUNE",
+        "postcode": "412207",
+        "phone": "+91 98811 23402",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.006341,
+          18.59886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "WAGHOLI RD.",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "OPP PCK WAREHOUSE, NAGAR PUNE RD, PUNE, Maharashtra",
+        "state": "Maharashtra",
+        "city": "PUNE",
+        "postcode": "412207",
+        "phone": "+91 98811 23402",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.00532,
+          18.599081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "KOREGAON BHIMA",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "KOREGAON BHIMA ,SHIRUR, PUNE, Maharashtra",
+        "state": "Maharashtra",
+        "city": "PUNE",
+        "postcode": "412216",
+        "phone": "+91 98235 82628",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.068709,
+          18.647543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ALANDI ROAD",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "ALANDI ROAD, PUNE, Maharashtra",
+        "state": "Maharashtra",
+        "city": "PUNE",
+        "postcode": "412105",
+        "phone": "+91 97621 78120",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.882125,
+          18.649238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BYRNIHAT",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "ELAKA NONGPOH SIRDIRSHIP, RI BHOI, 17 Megalaya",
+        "state": "17 Megalaya",
+        "city": "RI BHOI",
+        "postcode": "793105",
+        "phone": "+91 70023 10355",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.868508,
+          26.027586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SANIADI",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "KAMRUP, HAJO, Assam",
+        "state": "Assam",
+        "city": "HAJO",
+        "postcode": "781102",
+        "phone": "+91 86388 02528",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.490192,
+          26.272431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "HOWLY",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "BARNAGAR REVENUE CIRCLE, HOWLY, Assam",
+        "state": "Assam",
+        "city": "HOWLY",
+        "postcode": "781316",
+        "phone": "+91 70027 08558",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.998005,
+          26.416067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "KARARA",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "KAMRUP PS-BAIHATA CHARIALI, KARARA, Assam",
+        "state": "Assam",
+        "city": "KARARA",
+        "postcode": "781121",
+        "phone": "+91 94351 94704",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.732229,
+          26.363259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "DUMINICHOWKI",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "MOUZA-LOKRAI,, DARRANG, Assam",
+        "state": "Assam",
+        "city": "DARRANG",
+        "postcode": "784145",
+        "phone": "+91 97390 42102",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.81982,
+          26.349284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "RONKI,150 FT RING RD",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "150 FT RING ROAD, RAJKOT EAST,, RAJKOT, Gujarat",
+        "state": "Gujarat",
+        "city": "RAJKOT",
+        "postcode": "360001",
+        "phone": "+91 98256 26086",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.799552,
+          22.339502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BHUJ - MANDVI ROAD",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "DISTRICT - KACHCHH, BHUJ, Gujarat",
+        "state": "Gujarat",
+        "city": "BHUJ",
+        "postcode": "370001",
+        "phone": "+91 90164 48385",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.632971,
+          23.22301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "V.D HIGH SCHOOL",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "MUNDRA ROAD, BHUJ,DISTRICT - KUTCH, BHUJ, Gujarat",
+        "state": "Gujarat",
+        "city": "BHUJ",
+        "postcode": "370001",
+        "phone": "+91 90164 48385",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.663912,
+          23.233911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "DIHOR",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "SUB-DISTRICT TALAJA, BHAVNAGAR, Gujarat",
+        "state": "Gujarat",
+        "city": "BHAVNAGAR",
+        "postcode": "364150",
+        "phone": "+91 99785 07570",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.044646,
+          21.478472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SHIHOR,BHAVNAGAR RAJKOT ROAD",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "DISTRICT BHAVNAGAR, BHAVNAGAR, Gujarat",
+        "state": "Gujarat",
+        "city": "BHAVNAGAR",
+        "postcode": "364240",
+        "phone": "+91 85111 07087",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.969077,
+          21.729162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MORBI",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "TOWN, WITHIN MORBI MUNICIPAL LIMIT, MORBI, Gujarat",
+        "state": "Gujarat",
+        "city": "MORBI",
+        "postcode": "363641",
+        "phone": "+91 98252 90708",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.830796,
+          22.811686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BHAVNAGAR EXIT",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "FULSAR, BHAVNAGAR RAJKOT ROAD, BHAVNAGAR, Gujarat",
+        "state": "Gujarat",
+        "city": "BHAVNAGAR",
+        "postcode": "364004",
+        "phone": "+91 85111 07087",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.087278,
+          21.749389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "VICTORIA GARDEN ROAD",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "VICTORIA PARK ROAD, BHAVNAGAR, Gujarat",
+        "state": "Gujarat",
+        "city": "BHAVNAGAR",
+        "postcode": "364002",
+        "phone": "+91 76004 83232",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.137891,
+          21.748448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MOKHADAJI CIRCLE",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "NEAR MOKHADAJI CIRCLE , GOGHA ROAD, BHAVNAGAR, Gujarat",
+        "state": "Gujarat",
+        "city": "BHAVNAGAR",
+        "postcode": "364001",
+        "phone": "+91 91041 36363",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.158536,
+          21.757854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "UDHNA MAGDALLA ROAD",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "UDHNA MAGDALLA ROAD, SURAT, Gujarat",
+        "state": "Gujarat",
+        "city": "SURAT",
+        "postcode": "395007",
+        "phone": "+91 75748 10119",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.766706,
+          21.148028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PIPLOD 2, ATHWA DUMAS",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "PIPLOD, SURAT, Gujarat",
+        "state": "Gujarat",
+        "city": "SURAT",
+        "postcode": "395006",
+        "phone": "+91 84693 00009",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.77423,
+          21.16073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "VIP ROAD SURAT",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "BESIDE METRO CASH & CARRY, SURAT, Gujarat",
+        "state": "Gujarat",
+        "city": "SURAT",
+        "postcode": "395017",
+        "phone": "+91 91756 12345",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.801888,
+          21.144716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ALTHAN,NEW CITYLIGHT",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "ALTHAN, SURAT, Gujarat",
+        "state": "Gujarat",
+        "city": "SURAT",
+        "postcode": "395006",
+        "phone": "+91 72764 99126",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.797417,
+          21.157833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "LP SAWANI ROAD",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "ADAJAN, TAL CHORYASI, SURAT, Gujarat",
+        "state": "Gujarat",
+        "city": "SURAT",
+        "postcode": "395009",
+        "phone": "+91 84693 00009",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.79034,
+          21.188592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "JEHANGIRPURA RANDER ROAD,SURAT",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "MOJE RANDER, SURAT, Gujarat",
+        "state": "Gujarat",
+        "city": "SURAT",
+        "postcode": "395009",
+        "phone": "+91 84693 00009",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.789713,
+          21.233616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "DESAI CNG, BAMROLI RD",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "BAMROLI PANDESARA ROAD, SURAT, Gujarat",
+        "state": "Gujarat",
+        "city": "SURAT",
+        "postcode": "395002",
+        "phone": "+91 91756 12345",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.825799,
+          21.177186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "KASBAPAR",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "MOJE KASABAPAR,, NAVSARI, Gujarat",
+        "state": "Gujarat",
+        "city": "NAVSARI",
+        "postcode": "396445",
+        "phone": "+91 94291 48867",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.93269,
+          20.97053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "LAL DARWAJA, RING RD",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "LAL DARWAJA, SURAT, Gujarat",
+        "state": "Gujarat",
+        "city": "SURAT",
+        "postcode": "395001",
+        "phone": "+91 72764 99126",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.832003,
+          21.21105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GODADARA, GODADARA RD",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "SURVEYNO 34/1/B, BLOCK NO 42 MOJE P, SURAT, Gujarat",
+        "state": "Gujarat",
+        "city": "SURAT",
+        "postcode": "395006",
+        "phone": "+91 75748 10119",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.871524,
+          21.177383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MURAMBI",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "MURAMBI, NASHIK, Maharashtra",
+        "state": "Maharashtra",
+        "city": "NASHIK",
+        "postcode": "422402",
+        "phone": "+91 96040 85001",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.629587,
+          19.83362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CHAKAN.",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "NASIK RD, CHIMBALI PHATAK, T KHED, PUNE, Maharashtra",
+        "state": "Maharashtra",
+        "city": "PUNE",
+        "postcode": "410501",
+        "phone": "+91 70289 11213",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.84718,
+          18.694836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GANGAPUR SATPUR LINK ROAD",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "GANGAPUR SATPUR LINK, NASHIK, Maharashtra",
+        "state": "Maharashtra",
+        "city": "NASHIK",
+        "postcode": "422002",
+        "phone": "+91 77580 99049",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.711133,
+          19.992942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "RAHURI",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "RAHURI, AHMEDNAGAR, Maharashtra",
+        "state": "Maharashtra",
+        "city": "AHMEDNAGAR",
+        "postcode": "413706",
+        "phone": "+91 95521 48948",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.583889,
+          19.4675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "NIPHAD",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "NIPHAD, NIPHAD, Maharashtra",
+        "state": "Maharashtra",
+        "city": "NIPHAD",
+        "postcode": "422305",
+        "phone": "+91 70212 73189",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.215004,
+          19.978605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "DEVERGAON",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "TALUKA CHANDWAD,, NASIK, Maharashtra",
+        "state": "Maharashtra",
+        "city": "NASIK",
+        "postcode": "423101",
+        "phone": "+91 98905 57210",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.182594,
+          20.206925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BESIMARI",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "ALGAON TEHSIL, DARRANG, Assam",
+        "state": "Assam",
+        "city": "DARRANG",
+        "postcode": "784116",
+        "phone": "+91 70028 17082",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.183014,
+          26.615304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "STN BHOMURAGURI.",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "MOUZA MAHABHAIRAB, TEZPUR, Assam",
+        "state": "Assam",
+        "city": "TEZPUR",
+        "postcode": "784001",
+        "phone": "+91 98540 60367",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.847509,
+          26.622629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "STN TEZPUR NH37A.",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "PS TEZPUR, DT SONITPUR, TEZPUR, Assam",
+        "state": "Assam",
+        "city": "TEZPUR",
+        "postcode": "784001",
+        "phone": "+91 94351 80888",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.831967,
+          26.644868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BISWANATH CHARIALI",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "PO-BISWANATH, DISTRICT-BISWANATH, BISWANATH CHARIALI, Assam",
+        "state": "Assam",
+        "city": "BISWANATH CHARIALI",
+        "postcode": "784176",
+        "phone": "+91 70911 60656",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.153491,
+          26.755924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SANTAK",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "DIST-SIVASAGAR, SANTAK, Assam",
+        "state": "Assam",
+        "city": "SANTAK",
+        "postcode": "785687",
+        "phone": "+91 77388 95235",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.798104,
+          26.864762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BALIJAN",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "MOUZA- KADAM, MOUZA- KADAM, Assam",
+        "state": "Assam",
+        "city": "MOUZA- KADAM",
+        "postcode": "787032",
+        "phone": "+91 86381 03331",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.19162,
+          27.39265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "KATARGAM AMROLI ROAD",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "KATARGAM, SURAT, Gujarat",
+        "state": "Gujarat",
+        "city": "SURAT",
+        "postcode": "395004",
+        "phone": "+91 98256 66661",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.838253,
+          21.224813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MOTA VARACHHA",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "NR- VIP CIRCLE,MOTA VARACHHA, UTRAN, SURAT, Gujarat",
+        "state": "Gujarat",
+        "city": "SURAT",
+        "postcode": "394105",
+        "phone": "+91 98256 66661",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.872309,
+          21.234705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "VARACHA",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "89, PAIKEE NANA, VARACHA, SURAT, Gujarat",
+        "state": "Gujarat",
+        "city": "SURAT",
+        "postcode": "395002",
+        "phone": "+91 98256 66661",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.88191,
+          21.222206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PUNA, CANAL ROAD",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "TP SCHEME NO 60, PUNA, SURAT, Gujarat",
+        "state": "Gujarat",
+        "city": "SURAT",
+        "postcode": "395010",
+        "phone": "+91 90995 52777",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.885534,
+          21.202241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CANAL ROAD-SURAT",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "NR MAJESTICA, PUNA SIMADA- BRTS CAN, SURAT, Gujarat",
+        "state": "Gujarat",
+        "city": "SURAT",
+        "postcode": "395010",
+        "phone": "+91 72764 99126",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.894651,
+          21.209352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PALSANA, SURAT EXIT",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "VESMA, TA.JALALPORE, DIST. NAVSARI, SURAT, Gujarat",
+        "state": "Gujarat",
+        "city": "SURAT",
+        "postcode": "396475",
+        "phone": "+91 75748 10119",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.978326,
+          21.05255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MOTA BORASARA",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "NEAR TULSI HOTEL, MOTA BORASARA, Gujarat",
+        "state": "Gujarat",
+        "city": "MOTA BORASARA",
+        "postcode": "394110",
+        "phone": "+91 84606 76226",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.941002,
+          21.393771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ZADESHWAR ROAD",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "BHARUCH, BHARUCH, Gujarat",
+        "state": "Gujarat",
+        "city": "BHARUCH",
+        "postcode": "392001",
+        "phone": "+91 91110 99924",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.031473,
+          21.719732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BHARUCH EXIT-NH 8",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "NH 48, TALUKA & DISTRICT; BHARUCH, BHARUCH, Gujarat",
+        "state": "Gujarat",
+        "city": "BHARUCH",
+        "postcode": "392001",
+        "phone": "+91 91110 99924",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.02478,
+          21.772871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MANDVI",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "TA. MANDVI,, SURAT, Gujarat",
+        "state": "Gujarat",
+        "city": "SURAT",
+        "postcode": "394160",
+        "phone": "+91 98792 66602",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.31085,
+          21.258296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "VADODARA-PADRA ROAD",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "VADODARA-PADRA ROAD, VADODARA, Gujarat",
+        "state": "Gujarat",
+        "city": "VADODARA",
+        "postcode": "391410",
+        "phone": "+91 94292 10699",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.113731,
+          22.259377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "JAMBUVA, NH48",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "VILLAGE JAMBUA, NH 48, VADODARA, Gujarat",
+        "state": "Gujarat",
+        "city": "VADODARA",
+        "postcode": "391243",
+        "phone": "+91 94275 10699",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.192034,
+          22.207486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BHAYLI-SEVASI CANAL",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "SEVASI CANAL ROAD, VADODARA, Gujarat",
+        "state": "Gujarat",
+        "city": "VADODARA",
+        "postcode": "391410",
+        "phone": "+91 96625 30806",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.127056,
+          22.29775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SUSEN-TARSALI RINGRD",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "TALUKA AND DISTRICT:VADODARA, VADODARA, Gujarat",
+        "state": "Gujarat",
+        "city": "VADODARA",
+        "postcode": "390012",
+        "phone": "+91 90993 72141",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.167209,
+          22.267326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "OLD PADRA ROAD",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "OLD PADRA ROAD, VADODARA, Gujarat",
+        "state": "Gujarat",
+        "city": "VADODARA",
+        "postcode": "390015",
+        "phone": "+91 90993 72141",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.164582,
+          22.283883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MAKARPURA",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "TARSALI, MAKARPURA, VADODARA, Gujarat",
+        "state": "Gujarat",
+        "city": "VADODARA",
+        "postcode": "390014",
+        "phone": "+91 90993 72141",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.20152,
+          22.266064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GOTRI ROAD",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "GOTRI ROAD, VADODARA, Gujarat",
+        "state": "Gujarat",
+        "city": "VADODARA",
+        "postcode": "390021",
+        "phone": "+91 94275 10699",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.14461,
+          22.313375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "NASIK AIRPORT ROAD",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "OPP TRUCK TERMINAL, NASHIK, Maharashtra",
+        "state": "Maharashtra",
+        "city": "NASHIK",
+        "postcode": "422003",
+        "phone": "+91 81695 37149",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.874382,
+          20.045426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "AURANGABAD RD, NASHIK",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "NASHIK-AURANGABAD ROAD, NASHIK, Maharashtra",
+        "state": "Maharashtra",
+        "city": "NASHIK",
+        "postcode": "422002",
+        "phone": "+91 98813 80899",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.823725,
+          20.005965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TRAMBAK RD, NASHIK",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "NEAR BLVD, NASHIK, Maharashtra",
+        "state": "Maharashtra",
+        "city": "NASHIK",
+        "postcode": "422007",
+        "phone": "+91 93250 82935",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.743389,
+          19.991553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PATHARDI DEOLALI ROAD",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "DIST: NASIK, NASIK, Maharashtra",
+        "state": "Maharashtra",
+        "city": "NASIK",
+        "postcode": "422010",
+        "phone": "+91 77580 99049",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.770766,
+          19.948877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "NEW VIP ROAD,VADODARA",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "NEW VIP ROAD, VADODARA, Gujarat",
+        "state": "Gujarat",
+        "city": "VADODARA",
+        "postcode": "390018",
+        "phone": "+91 96625 30806",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.228792,
+          22.31736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "AKOTA,VADODARA",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "CITY SURVEY NO.68/A, TP SCHEME NO.1, VADODARA, Gujarat",
+        "state": "Gujarat",
+        "city": "VADODARA",
+        "postcode": "390020",
+        "phone": "+91 92751 70707",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.175126,
+          22.293838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "HARNI ROAD",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "PLOT NO 5, TP NO 7, MOUJE VADODARA, VADODARA, Gujarat",
+        "state": "Gujarat",
+        "city": "VADODARA",
+        "postcode": "390006",
+        "phone": "+91 96625 30806",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.21093,
+          22.31365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "NAGRALA",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "DISTRICT DAHOD, DAHOD, Gujarat",
+        "state": "Gujarat",
+        "city": "DAHOD",
+        "postcode": "389151",
+        "phone": "+91 82008 71569",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.25163,
+          22.79726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "DAHOD",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "DAHOD, DAHOD, Gujarat",
+        "state": "Gujarat",
+        "city": "DAHOD",
+        "postcode": "389151",
+        "phone": "+91 94275 96738",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.253146,
+          22.837931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "RANDHIKPUR",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "TALUKA- SINGVAD ,DAHOD, RANDHIKPUR, Gujarat",
+        "state": "Gujarat",
+        "city": "RANDHIKPUR",
+        "postcode": "389175",
+        "phone": "+91 85999 99389",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.955345,
+          22.951506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GODHRA",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "DAHOD-PRABHA ROAD,TA. GODHRA, PANCHMAHAL, Gujarat",
+        "state": "Gujarat",
+        "city": "PANCHMAHAL",
+        "postcode": "389001",
+        "phone": "+91 70770 77000",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.653384,
+          22.778959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SAMA SAVLI ROAD",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "MOUJE : SAMA,SAMA SAVLI ROAD, VADODARA, Gujarat",
+        "state": "Gujarat",
+        "city": "VADODARA",
+        "postcode": "390008",
+        "phone": "+91 95107 75259",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.20108,
+          22.348249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "KACHUMARI",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "DISTRICT CHARAIDEO, MAHMORA, Assam",
+        "state": "Assam",
+        "city": "MAHMORA",
+        "postcode": "785670",
+        "phone": "+91 96546 55615",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.932149,
+          27.122071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "JAMIRA",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "MOUZA-JAMIRA, DIBRUGARH, JAMIRA, Assam",
+        "state": "Assam",
+        "city": "JAMIRA",
+        "postcode": "786006",
+        "phone": "+91 94350 02931",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.859339,
+          27.38988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "STN DULIAJAN.",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "PO & PS TENGAKHAT, DT DIBRUGARH, DULIAJAN, Assam",
+        "state": "Assam",
+        "city": "DULIAJAN",
+        "postcode": "786103",
+        "phone": "+91 94350 39602",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.17892,
+          27.37783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BAVLA",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "TA. BAVLA, AHMEDABAD, Gujarat",
+        "state": "Gujarat",
+        "city": "AHMEDABAD",
+        "postcode": "382220",
+        "phone": "+91 99988 82224",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.349839,
+          22.816497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SANAND TOWN",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "SANAND, AHMEDABAD, Gujarat",
+        "state": "Gujarat",
+        "city": "AHMEDABAD",
+        "postcode": "382110",
+        "phone": "+91 92742 28630",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.40334,
+          22.98525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SHANKUS PARK",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "DHOLASAN TA, MEHSANA, Gujarat",
+        "state": "Gujarat",
+        "city": "MEHSANA",
+        "postcode": "384435",
+        "phone": "+91 99250 05436",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.391971,
+          23.471616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GHUMA, AROHI CREST RD",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "TALUKA :DASKROI, AHMEDABAD, Gujarat",
+        "state": "Gujarat",
+        "city": "AHMEDABAD",
+        "postcode": "380058",
+        "phone": "+91 98257 73311",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.46707,
+          23.0183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BOPAL AMLI.",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "TALUKA DASCROI, AMBLI ROAD, AHMEDABAD, Gujarat",
+        "state": "Gujarat",
+        "city": "AHMEDABAD",
+        "postcode": "380058",
+        "phone": "+91 63567 20220",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.48526,
+          23.028103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "THALTEJ RD",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "OPP. TO NARAYANAN PALACE, AHMEDABAD, Gujarat",
+        "state": "Gujarat",
+        "city": "AHMEDABAD",
+        "postcode": "380053",
+        "phone": "+91 92279 94728",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.51019,
+          23.057472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "132 FT. RING ROAD",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "132 FEET RING ROAD, VASANA, AHMEDABAD, Gujarat",
+        "state": "Gujarat",
+        "city": "AHMEDABAD",
+        "postcode": "380007",
+        "phone": "+91 99099 45461",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.53648,
+          22.999981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GOTA OGNAJ ROAD-AHD",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "TALUKA- GHATLODIA, AHMEDABAD, Gujarat",
+        "state": "Gujarat",
+        "city": "AHMEDABAD",
+        "postcode": "380061",
+        "phone": "+91 99099 45461",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.528817,
+          23.101682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "S G HIGHWAY",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "JAGATPUR, AHMEDABAD, Gujarat",
+        "state": "Gujarat",
+        "city": "AHMEDABAD",
+        "postcode": "382481",
+        "phone": "+91 98795 88082",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.53522,
+          23.111855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "NARANPURA.",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "132 FT ROAD, AHMEDABAD, Gujarat",
+        "state": "Gujarat",
+        "city": "AHMEDABAD",
+        "postcode": "380013",
+        "phone": "+91 92279 94726",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.54808,
+          23.05496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "JAGATPUR, AHMEDABAD",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "AHMEDABAD, AHMEDABAD,, Gujarat",
+        "state": "Gujarat",
+        "city": "AHMEDABAD,",
+        "postcode": "382481",
+        "phone": "+91 75671 34179",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.537683,
+          23.114502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BEHRAMPURA",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "BEHRAMPURA, AHMEDABAD, Gujarat",
+        "state": "Gujarat",
+        "city": "AHMEDABAD",
+        "postcode": "380022",
+        "phone": "+91 92279 94725",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.57433,
+          22.996258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CHANDKHEDA",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "MOJE: CHANDKHEDA,TA: SABARMATI, AHMEDABAD, Gujarat",
+        "state": "Gujarat",
+        "city": "AHMEDABAD",
+        "postcode": "382424",
+        "phone": "+91 92279 94727",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.582982,
+          23.125496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ADALAJ",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "GANDHINAGAR DISTRICT SITUATED AT AD, AHMEDABAD, Gujarat",
+        "state": "Gujarat",
+        "city": "AHMEDABAD",
+        "postcode": "380054",
+        "phone": "+91 98795 88082",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.56661,
+          23.18075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MOTERA, AHMEDABAD",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "TA SABARMATI, AHMEDABAD, Gujarat",
+        "state": "Gujarat",
+        "city": "AHMEDABAD",
+        "postcode": "380005",
+        "phone": "+91 94267 16759",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.595152,
+          23.079232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "KHOKHRA",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "KOKHRA CIRCLE, KOKHRA RD, AHMEDABAD, Gujarat",
+        "state": "Gujarat",
+        "city": "AHMEDABAD",
+        "postcode": "380008",
+        "phone": "+91 78743 70922",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.60373,
+          22.992025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MANINAGAR",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "NEAR V-MART, MANINAGAR, AHMEDABAD, Gujarat",
+        "state": "Gujarat",
+        "city": "AHMEDABAD",
+        "postcode": "380008",
+        "phone": "+91 98795 88082",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.61232,
+          23.006492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "KALUPUR NARODA ROAD",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "VIJAY MILLS, KALUPUR NARODA RD, AHMEDABAD, Gujarat",
+        "state": "Gujarat",
+        "city": "AHMEDABAD",
+        "postcode": "380016",
+        "phone": "+91 78743 70922",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6218,
+          23.048031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GHODASAR",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "MOJE: GHODASAR, TA: MANINAGAR, AHMEDABAD, Gujarat",
+        "state": "Gujarat",
+        "city": "AHMEDABAD",
+        "postcode": "380008",
+        "phone": "+91 99984 24076",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.626876,
+          22.987129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "NIKOL - ODHAV ROAD",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "MOJE: NIKOL, TA: ASARWA, AHMEDABAD, Gujarat",
+        "state": "Gujarat",
+        "city": "AHMEDABAD",
+        "postcode": "382350",
+        "phone": "+91 92743 06024",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.66213,
+          23.039875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "VASTRAL",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "ON S.P. RING ROAD, VASTRAL, AHMEDABAD, Gujarat",
+        "state": "Gujarat",
+        "city": "AHMEDABAD",
+        "postcode": "382418",
+        "phone": "+91 95124 61697",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.66853,
+          23.00513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GANDHINAGAR EXIT,NH 147",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "NH 147, TALUKA & DIST - GANDHINAGAR, GANDHINAGAR, Gujarat",
+        "state": "Gujarat",
+        "city": "GANDHINAGAR",
+        "postcode": "382042",
+        "phone": "+91 63547 21708",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.713917,
+          23.237028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MANAV ASHRAM CIRCLE",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "MEHSANA, MEHSANA DISTRICT, MEHSANA, Gujarat",
+        "state": "Gujarat",
+        "city": "MEHSANA",
+        "postcode": "384001",
+        "phone": "+91 98797 78236",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.407509,
+          23.610931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "DHANSURA",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "MOJE TA. DHANSURA, ARAVALLI, Gujarat",
+        "state": "Gujarat",
+        "city": "ARAVALLI",
+        "postcode": "383310",
+        "phone": "+91 98980 90100",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.201969,
+          23.346915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PALANPUR",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "SH 41, NR. D - MART, AT PALANPUR, BANASKANTHA, Gujarat",
+        "state": "Gujarat",
+        "city": "BANASKANTHA",
+        "postcode": "385001",
+        "phone": "+91 99041 85555",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.411521,
+          24.154124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CHHANI.",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "OPP RAMAKA MANDIR, CHANNI RD, VADODARA, Gujarat",
+        "state": "Gujarat",
+        "city": "VADODARA",
+        "postcode": "391740",
+        "phone": "+91 98795 99579",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.16744,
+          22.35472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GORWA ROAD",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "REFINERY ROAD, VADODARA, Gujarat",
+        "state": "Gujarat",
+        "city": "VADODARA",
+        "postcode": "390016",
+        "phone": "+91 96625 30806",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.16139,
+          22.328539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ANAPUR CHHOTA",
+        "brand": "Shell",
+        "brand_code": "Shell",
+        "address": "SUB DISTRICT DHANERA, BANASKANTHA, Gujarat",
+        "state": "Gujarat",
+        "city": "BANASKANTHA",
+        "postcode": "385310",
+        "phone": "+91 99094 97112",
+        "amenity": "fuel",
+        "source": "shellgsllocator.geoapp.me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.201924,
+          24.585698
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+<div class="store-info-box">
+ <input class="outlet-latitude" type="hidden" value="19.177124"/>
+ <input class="outlet-longitude" type="hidden" value="77.045873"/>
+ <ul class="list-unstyled outlet-detail first">
+  <li class="outlet-name">
+   <div class="info-icon">
+    <span class="sprite-icon intro-icon icn-business">
+    </span>
+   </div>
+   <div class="info-text">
+    <a data-track-event-business-alternate-name="Aryan Petroleum" data-track-event-business-name="IndianOil" data-track-event-city="Parbhani" data-track-event-click="IndianOil" data-track-event-eacsi="232954" data-track-event-state="Maharashtra" href="https://locator.iocl.com/indianoil-aryan-petroleum-petrol-pump-purna-parbhani-207466/Home" onclick="clickEventGa('store_locator', 'website_url', '99528')" title="IndianOil">
+     IndianOil
+    </a>
+   </div>
+  </li>
+  <li>
+   <div class="info-icon">
+    <span class="sprite-icon intro-icon icn-outlet">
+    </span>
+   </div>
+   <div class="info-text">
+    Aryan Petroleum
+   </div>
+  </li>
+  <li class="outlet-address">
+   <div class="info-icon">
+    <span class="sprite-icon intro-icon icn-address">
+    </span>
+   </div>
+   <div class="info-text">
+    <span>
+     S No 162/3/2, Purna Nanded Rd, Badwani
+    </span>
+    <br/>
+    <span>
+     <span>
+      Purna
+     </span>
+    </span>
+    <br/>
+    <span class="merge-in-next">
+     <span>
+      Parbhani
+     </span>
+     <span>
+      -
+     </span>
+     <span>
+      431514
+     </span>
+    </span>
+   </div>
+  </li>
+  <li class="outlet-phone">
+   <div class="info-icon">
+    <span class="sprite-icon intro-icon icn-phone">
+    </span>
+   </div>
+   <div class="info-text">
+    <a data-track-event-business-alternate-name="Aryan Petroleum" data-track-event-business-name="IndianOil" data-track-event-city="Parbhani" data-track-event-click="+917499430483" data-track-event-eacsi="232954" data-track-event-state="Maharashtra" href="tel:+917499430483" onclick="clickEventGa('store_locator', 'click_to_call', '207466')">
+     +917499430483
+    </a>
+   </div>
+  </li>
+  <li class="outlet-timings" id="storelocater_id_207466">
+   <div class="info-icon">
+    <span class="sprite-icon intro-icon icn-time">
+    </span>
+   </div>
+   <div class="info-text">
+    <span>
+     Open until 10:00 PM
+    </span>
+   </div>
+  </li>
+  <li class="outlet-actions">
+   <a class="btn btn-call" data-track-event-business-alternate-name="Aryan Petroleum" data-track-event-business-name="IndianOil" data-track-event-city="Parbhani" data-track-event-click="call" data-track-event-eacsi="232954" data-track-event-state="Maharashtra" href="tel:+917499430483" onclick="clickEventGa('store_locator', 'click_to_call', '207466')">
+    <span class="sprite-icon outlet-cta icn-phone">
+    </span>
+    <span>
+     Call
+    </span>
+   </a>
+   <a class="btn btn-map" data-track-event-business-alternate-name="Aryan Petroleum" data-track-event-business-name="IndianOil" data-track-event-city="Parbhani" data-track-event-click="Map" data-track-event-eacsi="232954" data-track-event-state="Maharashtra" href="https://locator.iocl.com/indianoil-aryan-petroleum-petrol-pump-purna-parbhani-207466/Map" onclick="clickEventGa('store_locator', 'map', '207466')">
+    <span class="sprite-icon outlet-cta icn-map">
+    </span>
+    <span>
+     <span class="theme-text">
+      Map
+     </span>
+    </span>
+   </a>
+   <a class="btn btn-website" data-track-event-business-alternate-name="Aryan Petroleum" data-track-event-business-name="IndianOil" data-track-event-city="Parbhani" data-track-event-click="Website" data-track-event-eacsi="232954" data-track-event-state="Maharashtra" href="https://locator.iocl.com/indianoil-aryan-petroleum-petrol-pump-purna-parbhani-207466/Home" onclick="clickEventGa('store_locator', 'website_url', '207466')">
+    <span class="sprite-icon outlet-cta icn-website">
+    </span>
+    <span>
+     Details
+    </span>
+   </a>
+   <a class="btn btn-direction" data-track-event-click="Navigate" href="https://maps.google.com/maps?cid=13848067900138333179" onclick="clickEventGa('store_locator', 'directions', '207466')" rel="noopener noreferrer" target="_blank">
+    <span class="sprite-icon outlet-cta icn-direction">
+    </span>
+    <span>
+     Map
+    </span>
+   </a>
+  </li>
+ </ul>
+</div>

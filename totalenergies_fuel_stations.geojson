@@ -1,0 +1,492 @@
+{
+  "type": "FeatureCollection",
+  "generator": "totalenergies_scraper.py",
+  "scraped_at": "2026-03-20T10:13:04.367219Z",
+  "total_stations": 23,
+  "brand": "TotalEnergies",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Total Auto Gas",
+        "brand": "TotalEnergies",
+        "brand_code": "TotalEnergies",
+        "address": "",
+        "state": "",
+        "city": "",
+        "amenity": "fuel",
+        "source": "openstreetmap.org",
+        "osm_id": 2466664086
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5592492,
+          12.9152651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "S B Auto LPG Gas",
+        "brand": "TotalEnergies",
+        "brand_code": "TotalEnergies",
+        "address": "",
+        "state": "",
+        "city": "",
+        "amenity": "fuel",
+        "source": "openstreetmap.org",
+        "osm_id": 2467671211
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.3729458,
+          15.2677138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Total Gas Station",
+        "brand": "TotalEnergies",
+        "brand_code": "TotalEnergies",
+        "address": "",
+        "state": "",
+        "city": "",
+        "amenity": "fuel",
+        "source": "openstreetmap.org",
+        "osm_id": 2467791465
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5079841,
+          13.0490027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Total Gas Station",
+        "brand": "TotalEnergies",
+        "brand_code": "TotalEnergies",
+        "address": "Magadi Road",
+        "state": "",
+        "city": "",
+        "amenity": "fuel",
+        "source": "openstreetmap.org",
+        "osm_id": 4518422189
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5500149,
+          12.9740504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Total",
+        "brand": "TotalEnergies",
+        "brand_code": "TotalEnergies",
+        "address": "",
+        "state": "",
+        "city": "",
+        "amenity": "fuel",
+        "source": "openstreetmap.org",
+        "osm_id": 11786631296
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2107125,
+          13.0773865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Total",
+        "brand": "TotalEnergies",
+        "brand_code": "TotalEnergies",
+        "address": "",
+        "state": "",
+        "city": "",
+        "amenity": "fuel",
+        "source": "openstreetmap.org",
+        "osm_id": 11868202391
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.5325161,
+          17.4424014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TotalEnergies",
+        "brand": "TotalEnergies",
+        "brand_code": "TotalEnergies",
+        "address": "",
+        "state": "",
+        "city": "",
+        "amenity": "fuel",
+        "source": "openstreetmap.org",
+        "osm_id": 12150953167
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5527632,
+          13.0195518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Total",
+        "brand": "TotalEnergies",
+        "brand_code": "TotalEnergies",
+        "address": "",
+        "state": "",
+        "city": "",
+        "amenity": "fuel",
+        "source": "openstreetmap.org",
+        "osm_id": 12151337498
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.605377,
+          12.9506877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TotalEnergies",
+        "brand": "TotalEnergies",
+        "brand_code": "TotalEnergies",
+        "address": "",
+        "state": "",
+        "city": "",
+        "amenity": "fuel",
+        "source": "openstreetmap.org",
+        "osm_id": 12167710739
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5854427,
+          12.9420666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Total Energies",
+        "brand": "TotalEnergies",
+        "brand_code": "TotalEnergies",
+        "address": "",
+        "state": "",
+        "city": "",
+        "amenity": "fuel",
+        "source": "openstreetmap.org",
+        "osm_id": 13597405366
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.9962902,
+          13.1990042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Total Energies",
+        "brand": "TotalEnergies",
+        "brand_code": "TotalEnergies",
+        "address": "",
+        "state": "",
+        "city": "",
+        "amenity": "fuel",
+        "source": "openstreetmap.org",
+        "osm_id": 13597405829
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.8282428,
+          13.351105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Total",
+        "brand": "TotalEnergies",
+        "brand_code": "TotalEnergies",
+        "address": "",
+        "state": "",
+        "city": "",
+        "amenity": "fuel",
+        "source": "openstreetmap.org",
+        "osm_id": 368723168
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6408291,
+          12.9834613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Total gas station",
+        "brand": "TotalEnergies",
+        "brand_code": "TotalEnergies",
+        "address": "",
+        "state": "",
+        "city": "",
+        "amenity": "fuel",
+        "source": "openstreetmap.org",
+        "osm_id": 459055688
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2115008,
+          12.9642639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Total",
+        "brand": "TotalEnergies",
+        "brand_code": "TotalEnergies",
+        "address": "",
+        "state": "",
+        "city": "",
+        "amenity": "fuel",
+        "source": "openstreetmap.org",
+        "osm_id": 781192796
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6053997,
+          12.9506051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Total",
+        "brand": "TotalEnergies",
+        "brand_code": "TotalEnergies",
+        "address": "",
+        "state": "",
+        "city": "",
+        "amenity": "fuel",
+        "source": "openstreetmap.org",
+        "osm_id": 1081463161
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5526995,
+          13.0195942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Esskay Totalgaz",
+        "brand": "TotalEnergies",
+        "brand_code": "TotalEnergies",
+        "address": "",
+        "state": "",
+        "city": "",
+        "amenity": "fuel",
+        "source": "openstreetmap.org",
+        "osm_id": 1144281250
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.708601,
+          12.9826593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Total Gas",
+        "brand": "TotalEnergies",
+        "brand_code": "TotalEnergies",
+        "address": "",
+        "state": "",
+        "city": "",
+        "amenity": "fuel",
+        "source": "openstreetmap.org",
+        "osm_id": 1161785400
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6417188,
+          13.040209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Total",
+        "brand": "TotalEnergies",
+        "brand_code": "TotalEnergies",
+        "address": "",
+        "state": "",
+        "city": "",
+        "amenity": "fuel",
+        "source": "openstreetmap.org",
+        "osm_id": 1167155057
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5797756,
+          12.943176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Total Gas",
+        "brand": "TotalEnergies",
+        "brand_code": "TotalEnergies",
+        "address": "",
+        "state": "",
+        "city": "",
+        "amenity": "fuel",
+        "source": "openstreetmap.org",
+        "osm_id": 1217250869
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5303458,
+          12.9442181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Totalgaz",
+        "brand": "TotalEnergies",
+        "brand_code": "TotalEnergies",
+        "address": "",
+        "state": "",
+        "city": "",
+        "amenity": "fuel",
+        "source": "openstreetmap.org",
+        "osm_id": 1274548649
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6004341,
+          12.9213761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TotalEnergies",
+        "brand": "TotalEnergies",
+        "brand_code": "TotalEnergies",
+        "address": "",
+        "state": "",
+        "city": "",
+        "amenity": "fuel",
+        "source": "openstreetmap.org",
+        "osm_id": 1393102032
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.477489,
+          12.9866431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Total gas",
+        "brand": "TotalEnergies",
+        "brand_code": "TotalEnergies",
+        "address": "",
+        "state": "",
+        "city": "",
+        "amenity": "fuel",
+        "source": "openstreetmap.org",
+        "osm_id": 1458729082
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5403962,
+          12.9864598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Total Gas",
+        "brand": "TotalEnergies",
+        "brand_code": "TotalEnergies",
+        "address": "Hosahalli Main Road",
+        "state": "",
+        "city": "Bangalore",
+        "amenity": "fuel",
+        "source": "openstreetmap.org",
+        "osm_id": 1481059389
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5469039,
+          12.9669407
+        ]
+      }
+    }
+  ]
+}
